@@ -23,31 +23,31 @@ class ProductModel {
 
 List<ProductModel> products = [
   ProductModel(
-    image: 'assets/coffee/image1.png',
+    image: 'assets/images/image1.png',
     name: 'Manual Grinder New',
     subName: 'Full Spectrume CBD Oil',
     description: description,
     price: 139.50,
     rating: "4.9 [3.2k]",
-    video: "assets/coffee/video2.mp4",
+    video: "assets/images/video2.mp4",
   ),
   ProductModel(
-    image: 'assets/coffee/image2.png',
+    image: 'assets/images/image2.png',
     name: 'Electric Burr Coffee',
     subName: 'Adjustable Burr Mil',
     description: description,
     price: 124.90,
     rating: "4.0 [2.1k]",
-    video: "assets/coffee/video3.mp4",
+    video: "assets/images/video3.mp4",
   ),
   ProductModel(
-    image: 'assets/coffee/image3.png',
+    image: 'assets/images/image3.png',
     name: 'Manual Grinder Moeni',
     subName: 'Vintage Black',
     description: description,
     price: 125.80,
     rating: "4.5 [1.1k]",
-    video: "assets/coffee/video4.mp4",
+    video: "assets/images/video4.mp4",
   ),
 ];
 String howToPouringCoffee =
